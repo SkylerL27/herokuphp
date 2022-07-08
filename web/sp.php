@@ -6,7 +6,6 @@
   <meta name="description" content="Put your description here.">
 </head>
 <body>
-  <!-- fix : Image elements do not have [alt] attributes -->
-  <img src="img/wallpaper.jpg" alt="wallpaper image">
+  <img src="img\wallpaper.jpg">
 </body>
 </html>
