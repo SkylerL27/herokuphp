@@ -1,12 +1,16 @@
-<!-- fix : <html> element does not have a [lang] attribute -->
+
 
 
 <!DOCTYPE html>
+<!-- fix : <html> element does not have a [lang] attribute -->
 <html lang="en">
 <head>
+    <!-- fix : Document does not have a meta description -->
     <meta name="description" content="This is testing for lesson.">
+    <!-- fix : Document does not have a viewport-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>This is a test</title>
+    <!-- fix : Document does not have a <title> -->
+    
 </head>
 <body>
   Hello World!
