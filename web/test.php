@@ -1,3 +1,5 @@
+<!-- fix : Page lacks the HTML doctype, thus triggering quirks mode -->
+<!DOCTYPE html>
 <!-- fix : <html> element does not have a [lang] attribute -->
 <html lang="en">
 <head>

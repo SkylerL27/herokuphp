@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="description" content="Put your description here.">
+</head>
+<body>
+  <!-- fix : Image elements do not have [alt] attributes -->
+  <img src="img/wallpaper.jpg" alt="view of the ocean from a mountain top">
+</body>
+</html>
