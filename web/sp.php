@@ -7,6 +7,6 @@
 </head>
 <body>
   <!-- fix : Image elements do not have [alt] attributes -->
-  <img src="img/wallpaper.jpg" alt="wallpaper image" width="100" height="100">
+  <img src="img/wallpaper.jpg" alt="wallpaper image">
 </body>
 </html>
